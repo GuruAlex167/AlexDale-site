@@ -1,1 +1,4 @@
 /NodeJsWebApp/nbproject/private/
+.gitignore
+package.json
+nbproject/
